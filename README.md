@@ -1,5 +1,7 @@
 ![Presentation for 3TR syringe driver](images/title-presentation.svg)
-Read how to build and use the 3TR here : 
+Read how to build and use the 3TR here : https://mathiaslec.github.io/3tr-syringe-driver/  
+
+
 # This project is documented with GitBuilding
 
 ## What is GitBuilding
