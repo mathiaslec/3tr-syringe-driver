@@ -5,3 +5,6 @@ cad/freecad/local
 _build/
 # Ignore the directory that GitBuilding will HTML markdown to
 _site/
+
+Other:
+local/
